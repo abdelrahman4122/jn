@@ -1,0 +1,1 @@
+C:\Users\abdel\anaconda3\python.exe C:\Users\abdel\anaconda3\cwp.py C:\Users\abdel\anaconda3 C:\Users\abdel\anaconda3\python.exe C:\Users\abdel\anaconda3\Scripts\jupyter-notebook-script.py "%USERPROFILE%/"
